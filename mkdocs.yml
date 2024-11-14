@@ -1,5 +1,5 @@
 site_name: Articul8
-site_url: https://www.example.com/docs
+site_url: https://github.com/nobinRB/mkdocs/
 theme:
   name: material
   logo: assets/logo.png
